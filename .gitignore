@@ -1,0 +1,38 @@
+﻿# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python Virtual Environments & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+ENV/
+*.env
+
+# Visual Studio & Windows Development
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Artifacts & Binaries
+bin/
+obj/
+Debug/
+Release/
+build/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.axf
+
+# Logs
+*.log
